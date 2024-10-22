@@ -85,5 +85,6 @@ plt.show()
 ```
 
 ### Output:
+![image](https://github.com/user-attachments/assets/f909c261-d6eb-4624-8383-21835f82ffde)
 
 ### Result:
